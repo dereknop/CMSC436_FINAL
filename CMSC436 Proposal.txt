@@ -18,7 +18,6 @@ Minimum Goals
 
 
 Stretch Goals
-We have identified the following stretch goals:
 * Friends list system
 * A feed to see friends bets
 * Interact with another user’s bet (likes/comments)
@@ -28,7 +27,7 @@ We have identified the following stretch goals:
 Project Timeline
 Milestone 1 (Target Date - 3/17/2023):
 * Enter information about a bet and have that input validated
-* Convert bet information until read-able format fit for sharing
+* Convert bet information into read-able format fit for sharing
 * Bet can be exported as an image and saved on phone
 
 
